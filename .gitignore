@@ -1,0 +1,30 @@
+# OS and Environment
+.DS_Store
+Thumbs.db
+
+# Node / NPM
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Scratch & Logs
+scratch/
+*.log
+*.tmp
+*.zip
+*.7z
+*.tar.gz
+
+# Clinical, Testing, and Patient Data Exclusion (PHI Protection)
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+*.pdf
+*.docx
+*.csv
